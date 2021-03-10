@@ -1,3 +1,5 @@
+package one.digitalinnovation.digionebank
+
 class Pessoa {
     val nome: String = "Fernando"
     val cpf: String = "111.222.333-45"
